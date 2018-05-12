@@ -10,7 +10,7 @@ url: "https://orlein.github.io"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
+disqus_shortname: orlein-github-io
 google_analytics: UA-78625712-2
 google_ad_client: true
 share:
@@ -25,4 +25,7 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+gems: [jekyll-sitemap, jekyll-seo-tag, jekyll-feed, jekyll-paginate, jekyll-gist]
+plugins: 
+  - jekyll-seo-tag
+comments: true
