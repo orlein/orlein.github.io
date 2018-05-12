@@ -1,18 +1,14 @@
 [
   {
     "icon": "fa-facebook",
-    "link": ""
-  },
-  {
-    "icon": "fa-twitter",
-    "link": ""
+    "link": "https://www.facebook.com/profile.php?id=100009004813240"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://www.linkedin.com/in/%EC%B0%BD%EC%A4%80-%EB%B0%95-55b612120/"
   },
   {
     "icon": "fa-github",
-    "link": ""
+    "link": "https://github.com/orlein"
   }
 ]
