@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: tech
-title: tech
-permalink: /category/tech
+categories: Tech
+title: Tech
+permalink: /category/Tech
 ---
