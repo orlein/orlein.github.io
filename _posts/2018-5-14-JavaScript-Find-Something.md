@@ -9,7 +9,7 @@ JavaScript-Find-Something
 
 ----------------------
 
-<code><pre>
+<pre><code>
 var data = [...];
 var id = "...";
 var find = function(arr, key) {
@@ -20,7 +20,7 @@ var find = function(arr, key) {
   }
 }
 console.log(find(data, id));
-</pre></code>
+</code></pre>
 
 
 A very simple O(n) finding algorithm for JavaScript
