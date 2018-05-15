@@ -51,13 +51,13 @@ Or.... 또는...
 3. type below... 아래의 코드 실행
 
     <pre><code>
-    choco install &lt;packagename1&gt; &lt;packagename2&gt; &lt;packagename3&gt; ...
+    choco install -y &lt;packagename1&gt; &lt;packagename2&gt; &lt;packagename3&gt; ...
     </code></pre>
 
   * example예시: 
 
     <pre><code>
-    choco install jre8 googlechorme 7zip.install git.install nodejs.install openssh -y
+    choco install -y jre8 googlechorme 7zip.install git.install nodejs.install openssh
     </code></pre>
 
 4. Done! 끝남ㅋ
