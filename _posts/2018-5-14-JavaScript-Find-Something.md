@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript-Find-Something snippet
+title: JavaScript Find Something snippet
 categories: [Tech, JavaScript, Snippet]
 ---
 

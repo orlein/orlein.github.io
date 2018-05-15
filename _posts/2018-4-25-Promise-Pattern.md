@@ -28,7 +28,7 @@ function getExample(){
     })
     
 }
-</code><pre>
+</code></pre>
 
 You can use resultA and resultB simutaneously.
 
