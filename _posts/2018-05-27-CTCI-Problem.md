@@ -36,6 +36,6 @@ int main(void) {
 
 ### 결과
 
-![뒤집혀진 string](/static/post_image/2018-5-27-프로젝트-문서-관리-아이디어/reversed.jpg)
+![뒤집혀진 string](/static/post_image/2018-05-27-프로젝트-문서-관리-아이디어/reversed.jpg)
 
 
