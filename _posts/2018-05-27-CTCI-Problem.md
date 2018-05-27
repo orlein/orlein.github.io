@@ -38,4 +38,4 @@ int main(void) {
 
 ![뒤집혀진 string](/static/post_image/2018-05-27/reversed.jpg)
 
-
+![결과이미지]({{ site.url }}/static/post_image/2018-05-27/reversed.jpg)
