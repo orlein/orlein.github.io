@@ -28,5 +28,4 @@ int main(void) {
   printf(rev_str);
   return 1;
 }
-
 </code></pre>
