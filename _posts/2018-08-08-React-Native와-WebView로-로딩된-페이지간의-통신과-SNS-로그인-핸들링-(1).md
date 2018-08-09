@@ -38,7 +38,9 @@ categories: [Tech, JavaScript, ReactNative]
 4. 구체적인 기술 스택은 어떻게 됩니까?
 
     1) DynamoDB + Spring Boot + React.js로 만든 웹 앱을 aws 인스턴스에 올렸음
+    
     2) cli로 만든 ReactNative App에서 WebView를 생성하고 위의 주소로 접속할 수 있게 했음. *Expo 아님!!!*
+    
     3) ReactNative와 Firebase를 연결하고 로그인기록을 저장할 수 있게 구축해놨음
 
 5. 독자에게 필요한 정보일까요?
