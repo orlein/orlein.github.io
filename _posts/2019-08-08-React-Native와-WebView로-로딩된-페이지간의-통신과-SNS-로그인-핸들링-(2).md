@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React Native와 WebView로 로딩된 페이지간의 통신과 SNS 로그인 핸들링 (1)
+title: React Native와 WebView로 로딩된 페이지간의 통신과 SNS 로그인 핸들링 (2)
 categories: [Tech, JavaScript, ReactNative]
 ---
 
@@ -22,6 +22,12 @@ App 구축 방법 (ReactNative cli, Expo 아님)
 
     ``` $ cd SampleProject ```
 
-    ``` $ react-native run-android ```
+    ``` $ react-native run-android ``` (또는 맥에서 ``` $ react-native run-ios ```)
 
 를 전부 완료하고 제대로 돌아가는지 보자.
+
+3. 
+
+![스크린샷](/assets/react-native-screenshot.png);
+
+이런게 뜨면 성공. 해당 스크린샷은 맥에서 iOS 시뮬레이터 띄웠음
