@@ -73,7 +73,8 @@ permalink: /about/
 
 # Support me
 
-ETH: 0xB033adD8368034DC65107ee2E714572259233450
+BTC: 32mQVjEJNTGvTHUYP4VeKk8Q8EFBTzS5kV
+
+BCH: bitcoincash:pz2uc870grzwrnlt2pkar3dvskwdrsrj2qm9x8rrpn
 
 
-BTC: 1AoeFPVY9f9Roo6765z829V6UD8kBywzRT
