@@ -31,3 +31,7 @@ App 구축 방법 (ReactNative cli, Expo 아님)
 ![스크린샷](/assets/react-native-screenshot.png);
 
 이런게 뜨면 성공. 해당 스크린샷은 맥에서 iOS 시뮬레이터 띄웠음
+
+잘 되지 않으면:
+
+https://facebook.github.io/react-native/docs/getting-started.html
