@@ -46,6 +46,9 @@ john.greet("Mark");  // Hi Mark, my name is John
 
 var fx = john.greet;
 fx("Mark");   // Hi Mark, my name is  
+// 첨언: chrome에서는 위 결과가 나오지만, 브라우저에 따라 Hi Mark, my name is undefined 가 나올 수 있습니다.
+// this를 window로 받는 브라우저에서 그렇습니다.
+// 함수형 자바스크립트 방의 ENvironmentSet님 감사합니다.
 ```
 이 방법에서는 function을 객체 안에 넣어서 this키워드의 혼란을 방지하였다.
 
