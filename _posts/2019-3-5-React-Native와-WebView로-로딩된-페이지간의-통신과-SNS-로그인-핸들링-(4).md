@@ -46,8 +46,9 @@ this.wv.postMessage(JSON.stringify(data));
 
 # 3. WebView -> RN 메시지 전송
 
-WebView로 띄울 웹앱 또는 웹 페이지에서 전송하는것은 postMessage로 한다.\
-window는 javascript에서 기본적으로 제공해 주는 object임을 다시 한번 떠올리자.
+WebView로 띄울 웹앱 또는 웹 페이지에서 전송하는것은 postMessage로 한다.
+
+window는 https://developer.mozilla.org/ko/docs/Web/API/Window 
 ```javascript
 sendPostMessageToRN = (message, payload) => {
   setTimeout(() => {
@@ -57,11 +58,13 @@ sendPostMessageToRN = (message, payload) => {
 //////////
 this.sendPostMessageToRN(JSON.stringify({email, name}));
 ```
-나는 이런식으로 setTimeout으로 처리했다. 이렇게 하지 않으면 사실 살짝 불안정하다. \
+나는 이런식으로 setTimeout으로 처리했다. 이렇게 하지 않으면 사실 살짝 불안정하다. 
+
 왜 그런지는 모르겠다. 좀 더 알아보면 해답이 금방 나올 것 같지만, 별로 하고싶지는 않다.
 
-/* 1 */에서 WebView로부터 받은 값을 받아다 RN에서 처리하게 할 수 있다. \
-onMessage의 callback을 보면, e에는 nativeEvent라는 것이 있고, 여기에 받아온 데이터를 처리한다.\
+/* 1 */에서 WebView로부터 받은 값을 받아다 RN에서 처리하게 할 수 있다. 
+
+onMessage의 callback을 보면, e에는 nativeEvent라는 것이 있고, 여기에 받아온 데이터를 처리한다.
 e의 type설명은 생략한다.
 
 ```javascript
