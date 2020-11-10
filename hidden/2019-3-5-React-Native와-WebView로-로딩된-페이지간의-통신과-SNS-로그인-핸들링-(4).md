@@ -72,6 +72,3 @@ onMessage={(e)=> {
   const data = JSON.parse(e.nativeEvent.data);
 }}
 ```
-
-------------
-생각나는 대로, 그리고 코드를 참조하여 적어보았다. 자세한 용례는 다음 포스팅에 ㅠㅠ

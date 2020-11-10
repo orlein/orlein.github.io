@@ -6,21 +6,34 @@ permalink: /about/
 
 # Skills
 
-* C# (WindowsForms)
-
-* C# (Unity 3D)
-
-* JavaScript
+* JavaScript + TypeScript ( Started since 2009 )
   
-  * React.js
+  * React.js / React Native
 
-  * Node.js w/ express.js
+    * Next.js
+    
+    * Material-ui
 
-  * Angular.js
+    * Redux
+
+    * Expo
+
+  * Node.js
+    
+    * express.js
+
+    * Koa.js
+
+    * Nest.js
+
+  * ~~Angular~~
+
+* C#
+
+* Java (Spring Boot)
 
 * Python
 
-* Java (Spring Boot)
 
 # Skills to aquire
 
@@ -32,7 +45,7 @@ permalink: /about/
 
 2. Front-end 
 
-    * React.js (30%?)
+    * React.js
 
     * Vue.js
 
@@ -52,29 +65,6 @@ permalink: /about/
 
     * MongoDB
 
-    * Redis
-
-5. Automation
-
-    * Algorithm automation w/ deeplearning tools like Tensorflow
-
-    * CI w/ tools like Jenkins
-
-    * App scaffolding automation w/ tools like Yeoman, Jhipster
-
-6. Cloud
-
-    * Azure, AWS, GCP... 
-
-
 # Contact me
 
 [pcj9024@gmail.com](mailto:pcj9024@gmail.com)
-
-# Support me
-
-BTC: 32mQVjEJNTGvTHUYP4VeKk8Q8EFBTzS5kV
-
-BCH: bitcoincash:pz2uc870grzwrnlt2pkar3dvskwdrsrj2qm9x8rrpn
-
-
